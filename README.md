@@ -1,2 +1,6 @@
-# flutter-login
-This Repo consists of a Flutter Application for a Login and SignUp page with all the necessary field validations.
+## Screenshots of the Application:
+
+<img src="Screenshots/1.png" width=300>
+
+<img src="Screenshots/2.png" width=300>
+
